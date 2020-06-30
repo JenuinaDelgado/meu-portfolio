@@ -1,6 +1,5 @@
 import React from "react";
 import { Navbar, Row} from 'react-materialize';
-// Importando o componente NavLink da lib de rotas
 import { NavLink } from 'react-router-dom'
 
 

@@ -1,4 +1,3 @@
-
 import React, { Component } from 'react';
 import Header from './components/header/header'
 import Main from './main'
