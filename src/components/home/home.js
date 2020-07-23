@@ -22,7 +22,7 @@ const Home = () => (
         <h5 className="subtitle">Formação Acadêmica</h5>
    
 
-        {/* Passando os parâmetros title, company, description e avatar para o component Experience */}
+      {/* Passando os parâmetros description e image para o component About */}
         <About description="O curso oferecido pela Universidade do Mindelo, com duração de 4 anos, proporcionou a aprendizagem nas áreas de programação, engenharia e qualidade de software, entre outras. Curso este cuja finalidade é estar capacitado e habilitado para, profissionalmente, construir soluções adequadas à resolução de problemas das organizações e da sociedade, com a utilização das novas tecnologias e sistemas de informação, tendo como base toda a experiência acumulada e os conhecimentos adquiridos através de uma sólida formação no domínio das ciências matemáticas, da administração e da computação."
                     image={uni}
         />
